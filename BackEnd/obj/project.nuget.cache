@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "7GYmGJRX2kta0CG7CZ8mFa7Cb9DXzYAokAlUgM1dskLYHnOs9pqk1Csuu0qyLLJG6fMx0nmMlE8MaYUxVyAz4w==",
+  "dgSpecHash": "iZprTsregAA36aX1seLq1+ylckJTpvtlGJNDi78BFP8/U5x8A+zJB0R0vm1RfN4Ip9810L1wJfv0F5QMJRZB+Q==",
   "success": true,
-  "projectFilePath": "C:\\Users\\alex\\Desktop\\BackEnd\\BackEnd.csproj",
+  "projectFilePath": "C:\\Users\\alex\\Desktop\\Project\\BackEnd\\BackEnd.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
